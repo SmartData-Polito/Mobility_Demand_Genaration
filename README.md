@@ -10,4 +10,4 @@ There are twopython notebooks:
 
 For both, it is sufficient to import the python notebook and the .csv file containing the dataset in a jupyter enviroment.
 
-More instructions are contained inside the notebook.
+More instructions are contained inside each notebook.
