@@ -4,7 +4,7 @@ This repository contains the python notebook and a portion of the dataset used f
 
 There are two python notebooks:
 
--"Amsterdam_models.ipynb" contains the code to generate different demand models with the related Weekday 23 time-slot dataset, contained in this repository. It also generates the kde samples and saves them in .pickle format. Theese are necessary to generate the contour plot illustrated in the paper.
+-"Amsterdam_models.ipynb" contains the code to generate different demand models based on KDE and VKDE, with the related Weekday 23 time-slot dataset, contained in this repository. It also generates the kde samples and saves them in .pickle format. Theese are necessary to generate the contour plot illustrated in the paper.
 
 -"Amsterdam_plots.ipynb" contains the code to produce the most important contour plots (figures 2c, 8a, 8b, 8c) illustrated in the paper. For doing that, it is necessary to read the .pickle files containing the KDE's samples.
 
