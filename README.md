@@ -2,7 +2,7 @@
 
 This repository contains the python notebook and a portion of the dataset used for the paper 'Demand Model Generation from Traces: Adaptive KDE Data-Driven Optimization', submitted for the 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022).
 
-There are twopython notebooks:
+There are two python notebooks:
 
 -"Amsterdam_models.ipynb" contains the code to generate different demand models with the related Weekday 23 time-slot dataset, contained in this repository. It also generates the kde samples and saves them in .pickle format. Theese are necessary to generate the contour plot illustrated in the paper.
 
