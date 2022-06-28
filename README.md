@@ -1,6 +1,6 @@
 # Mobility_Demand_Generation
 
-This repository contains the python notebook and a portion of the dataset used for the paper 'Demand Model Generation from Traces: Adaptive KDE Data-Driven Optimization', submitted for the 25th IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022).
+This repository contains the python notebook and a portion of the dataset used for the paper 'Demand Model Generation from Traces: Adaptive KDE Data-Driven Optimization', currently under review.
 
 There are two python notebooks:
 
